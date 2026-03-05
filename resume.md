@@ -1,16 +1,16 @@
 # _D R_ J O S E P H **M A N G H A N**
 
-_Frontend Engineer | Context Engineering_
+_Senior Frontend Engineer | Context Engineering_
 
 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Cardiff, Wales | 📧 josephmanghan@gmail.com | 🌐 [www.josephmanghan.com](https://www.josephmanghan.com) | 💼 [in/josephmanghan](https://linkedin.com/in/josephmanghan) | 🐙 [josephmanghan](https://github.com/josephmanghan)
 
-> Capable, committed and enthusiastic Frontend Engineer with specialization in context engineering and spec-driven development. Experienced in implementing structured AI-first workflows to enhance team productivity and code quality. Passionate about UX, responsive design, and iterative improvement. Expertise across the full SDLC.
+> Capable, committed and enthusiastic Senior Frontend Engineer with specialization in context engineering and spec-driven development. Experienced in implementing structured AI-first workflows to enhance team productivity and code quality. Passionate about UX, responsive design, and iterative improvement. Expertise across the full SDLC.
 
 ## 💼 Experience
 
-### **Frontend Engineer**
+### **Senior Frontend Engineer**
 
-_Backbase | Jan 2023 - present_
+_Backbase | Jan 2026 - present_
 
 **Support and empower my squad in delivering essential features within the Identity Access Management space, primarily focusing on auth flows for banking contexts.**
 
@@ -18,14 +18,21 @@ Led the technical design for complex IAM features, including orchestrating input
 
 Well-versed in harnessing AI to expedite development, learning and support
 
-- Seconded to task force developing SDD workflows company-wide, underpinned by training on context engineering best practices.
-- Manage prompt and SDD strategy for feature delivery.
+- Formally seconded to company-wide task force delivering a context engineering and spec-driven development strategy — centralised skills, evaluations, and versioned assets, with an upskilling stream covering models, tooling, and harnesses.
 - Reduced testing overhead by introducing dedicated review and QA agent personas for the post-development phase.
 - Directed workshops on context engineering and AI, facilitating discourse on innovative workflows and product development.
 
 Oversaw the organisation, story mapping and UX liaison of a major refactor initiative employing a shared componentisation strategy
 
 - Resulted in a significant improvement to code quality and UX parity across the product
+
+### **Frontend Engineer**
+
+_Backbase | Jan 2023 - Dec 2025_
+
+**Consolidated frontend expertise through hands-on delivery, quality advocacy, and iterative improvement in IAM feature development.**
+
+Managed prompt assets, context, and specs at squad level to support day-to-day feature delivery.
 
 Personally conducted an a11y audit to identify areas where the WCAG AA standard had not been met
 
